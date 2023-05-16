@@ -1,5 +1,5 @@
 # Algorithm-Projects
-Implementation of commonly used methods in computer science algorithms including matrix multiplication, hashing, and string matching. Each script handles I/O arguments.
+Implementation of commonly used methods in computer science algorithms including matrix multiplication, hashing, and dynamic programming. Each script handles I/O arguments.
 
 The Strassen script utilizes ordinary and strassen multiplication commonly used in linear algebra matrix mathematics.
 
