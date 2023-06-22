@@ -5,4 +5,4 @@ The Strassen script utilizes ordinary and strassen multiplication commonly used 
 
 The hashing script contains custom hashing schemes and collision handling methods.
 
-The LCS string matching script contains a dynamic programming algorithm to solve the Longest Common Subsequence problem.
+The LCS string matching script contains a dynamic programming algorithm to solve the Longest Common Subsequence problem which is a common algorithm used in bioinformatics.
